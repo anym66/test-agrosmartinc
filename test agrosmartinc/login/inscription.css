@@ -1,0 +1,20 @@
+.login-inscription{
+    width: 500px;
+}
+.inscription-box {
+    width: 400px !important;
+}
+.element-password{
+    width: 400px !important;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.btn-inscription {
+    background-color: rgb(126, 240, 126);
+    border-color: rgb(126, 240, 126) ;
+    border-radius: 5px;
+    border-width: 1px;
+    width: 400px;
+    height: 40px;
+}
